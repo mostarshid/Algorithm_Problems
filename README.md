@@ -10,7 +10,7 @@
 
 | **রিপোর্ট**  | **সমস্যার নাম (Problem Name)**            | **প্ল্যাটফর্ম**    | **ব্যবহৃত অ্যালগরিদম**  | **সমাধানের ফোল্ডার**                   |
 |--------------|-------------------------------------------|--------------------|--------------------------|----------------------------------------|
-| **Lab 1**    | Bicoloring (BFS)                         | Online Judge       | BFS (Bipartite Check)    | BFS-Problems/Bicoloring                |
+| **Lab 1**    | [Bicoloring (BFS)] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945)                        | Online Judge       | BFS (Bipartite Check)    | BFS-Problems/Bicoloring                |
 | **Lab 1**    | Risk (Shortest Path)                     | Online Judge       | BFS                      | BFS-Problems/Risk                     |
 | **Lab 1**    | Knight moves (BFS in 2D Grid)            | Online Judge       | BFS in Grid              | BFS-Problems/KnightMoves              |
 | **Lab 2**    | Dijkstra?                                 | Codeforces         | Dijkstra's Algorithm     | Dijkstra-Problems/Dijkstra-Question   |
