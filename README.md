@@ -10,13 +10,13 @@
 
 | **রিপোর্ট**  | **সমস্যার নাম (Problem Name)**            | **প্ল্যাটফর্ম**    | **ব্যবহৃত অ্যালগরিদম**  | **সমাধানের ফোল্ডার**                   | **(Link)** |
 |--------------|-------------------------------------------|--------------------|--------------------------|----------------------------------------|--------------------|
-| **Lab 1**    | Bicoloring (BFS)                         | Online Judge       | BFS (Bipartite Check)    | BFS-Problems/Bicoloring                 | [Link](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945)  |
-| **Lab 1**    | Risk (Shortest Path)                     | Online Judge       | BFS                      | BFS-Problems/Risk                       | [Link](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=508)  |
-| **Lab 1**    | Knight moves (BFS in 2D Grid)            | Online Judge       | BFS in Grid              | BFS-Problems/KnightMoves                | [Link](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380)  |
-| **Lab 2**    | Dijkstra?                                | Codeforces         | Dijkstra's Algorithm     | Dijkstra-Problems/Dijkstra-Question     | [Link](https://codeforces.com/contest/20/problem/C)                |
-| **Lab 2**    | Not the best                             | Lightoj            | Modified Dijkstra's      | Dijkstra-Problems/NotTheBest            | [Link](https://lightoj.com/problem/not-the-best)                   |
-| **Lab 3**    | UVA558: Warmholes                        | Online Judge       | Bellman-Ford             | Bellman-Ford-Problems/UVA558            | [Link](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499)  |
-| **Lab 3**    | LOJ1108: Traffic                         | Online Judge       | Bellman-Ford             | Bellman-Ford-Problems/LOJ1108           | [Link](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1390) |
+| **Lab 1**    | Bicoloring (BFS)                         | Online Judge       | BFS (Bipartite Check)    | BFS-Problems/Bicoloring                 | [Click](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945)  |
+| **Lab 1**    | Risk (Shortest Path)                     | Online Judge       | BFS                      | BFS-Problems/Risk                       | [Click](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=508)  |
+| **Lab 1**    | Knight moves (BFS in 2D Grid)            | Online Judge       | BFS in Grid              | BFS-Problems/KnightMoves                | [Click](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380)  |
+| **Lab 2**    | Dijkstra?                                | Codeforces         | Dijkstra's Algorithm     | Dijkstra-Problems/Dijkstra-Question     | [Click](https://codeforces.com/contest/20/problem/C)                |
+| **Lab 2**    | Not the best                             | Lightoj            | Modified Dijkstra's      | Dijkstra-Problems/NotTheBest            | [Click](https://lightoj.com/problem/not-the-best)                   |
+| **Lab 3**    | UVA558: Warmholes                        | Online Judge       | Bellman-Ford             | Bellman-Ford-Problems/UVA558            | [Click](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499)  |
+| **Lab 3**    | LOJ1108: Traffic                         | Online Judge       | Bellman-Ford             | Bellman-Ford-Problems/LOJ1108           | [Click](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1390) |
 
 
 ---
