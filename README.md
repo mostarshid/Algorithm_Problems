@@ -1,14 +1,14 @@
-# 💻 Algorithms Problems (CSE 232)
+# Algorithms Problems (CSE 232)
 
-## কোর্স পরিচিতি
-এই রিপোজিটরি "অ্যালগরিদম" (CSE 232) কোর্সের জন্য আমার সমস্ত ল্যাব রিপোর্ট এবং অ্যাসাইনমেন্ট সমাধানগুলির একটি সংকলন। এখানে প্রতিটি সমস্যা সমাধানসহ ব্যবহৃত অ্যালগরিদম, সিউডোকোড এবং বিশ্লেষণ সংযুক্ত করা হয়েছে, যা সুসংগঠিতভাবে উপস্থাপন করা হয়েছে।
+## Course Introduction
+This repository is a collection of all my lab reports and assignment solutions for the “Algorithms” (CSE 232) course. Each problem includes its solution along with the algorithm used, pseudocode, and analysis, all presented in a well-organized manner.
 
-## 🔑 সমাধান বিন্যাস (Solution Structure)
-প্রতিটি সমস্যার সমাধান একটি নির্দিষ্ট ফোল্ডারে সংরক্ষিত আছে, যেখানে সমস্যার নাম, সংশ্লিষ্ট প্ল্যাটফর্ম এবং ব্যবহৃত অ্যালগরিদমের বিস্তারিত ব্যাখ্যা দেওয়া আছে। প্রতিটি ফোল্ডারের মধ্যে রয়েছে একটি README.md ফাইল, যেখানে সিউডোকোড এবং সমস্যা বিশ্লেষণ অন্তর্ভুক্ত।
+## Solution Structure
+Each problem’s solution is stored in a dedicated folder containing the problem name, the corresponding platform, and a detailed explanation of the algorithm used. Inside each folder, there is a README.md file that includes the pseudocode and problem analysis.
 
-### 📋 সমস্যার তালিকা (Problem List)
+### Problem List
 
-| **রিপোর্ট**  | **সমস্যার নাম (Problem Name)**            | **প্ল্যাটফর্ম**    | **ব্যবহৃত অ্যালগরিদম**  | **সমাধানের ফোল্ডার**                   | **(Link)** |
+| **Report**  | **Problem Name**            | **Platform**    | **Used Algorithm**  | **Solution Folder**                   | **(Link)** |
 |--------------|-------------------------------------------|--------------------|--------------------------|----------------------------------------|--------------------|
 | **Lab 1**    | Bicoloring (BFS)                         | Online Judge       | BFS (Bipartite Check)    | BFS-Problems/Bicoloring                 | [Click](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945)  |
 | **Lab 1**    | Risk (Shortest Path)                     | Online Judge       | BFS                      | BFS-Problems/Risk                       | [Click](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=508)  |
